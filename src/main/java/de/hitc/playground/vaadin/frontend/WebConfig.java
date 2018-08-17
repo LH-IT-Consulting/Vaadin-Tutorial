@@ -1,4 +1,4 @@
-package de.hitc.playground.vaadin;
+package de.hitc.playground.vaadin.frontend;
 
 import com.vaadin.annotations.VaadinServletConfiguration;
 import com.vaadin.server.VaadinServlet;
